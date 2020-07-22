@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParseEmalVerefication</string>
+
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">du31qscr4Zgc329yurUa4pegz9UH14GV82b2mgUj</string>
+    <string name="back4app_client_key">wKujZn2PmESXmE89BXcm9TrVRrdLbOglqWsfcTfJ</string>
+</resources>
